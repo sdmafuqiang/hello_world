@@ -4,3 +4,5 @@ git add README.md
 git commit -m“first commit” 
 git remote add origin https://github.com/sdmafuqiang/hello_world.git
  git push -u origin master
+这是一段新的添加
+这是二段新的添加
